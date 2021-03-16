@@ -1,4 +1,4 @@
-# Today I Learned about NLP&Text-Mining
+# Today I Learned in AI_Solution_Course
 
 ### 데이터기반 AI 응용 솔루션 코스 12주차(2021.03.02 ~
   
